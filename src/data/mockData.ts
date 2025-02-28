@@ -2778,7 +2778,7 @@ export const contributors: Contributors[] = [
     link: "",
   },
   {
-    name: "Shard PM",
+    name: "Sharad PM",
     contribution: "Notes",
     description: "",
     department: "CV",
