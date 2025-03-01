@@ -1,5 +1,5 @@
 # History of Knotes Central
-**Knotes Central Active V3 Link:** [KnotesCentralV3]((https://knotescentral.vercel.app))
+**Knotes Central Active V3 Link:** [KnotesCentralV3](https://knotescentral.vercel.app))
 
 **Knotes Central Active V2 Link:** [KnotesCentralV2](https://knotes-central-v3.github.io/KnotesCentralV2/)
 
