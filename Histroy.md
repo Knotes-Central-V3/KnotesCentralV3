@@ -3,7 +3,7 @@
 
 **Knotes Central Active V2 Link:** [KnotesCentralV2](https://knotes-central-v3.github.io/KnotesCentralV2/)
 
-**Knotes Central Active V1 Link:**[KnotesCentralV1](https://knotes-central-v3.github.io/KnotesCentralV1/)
+**Knotes Central Legacy V1 Link:**[KnotesCentralV1](https://knotes-central-v3.github.io/KnotesCentralV1/)
 
 ## Version 3.0 - Refactoring and Updates 
 - **Contributor**: Krishna Tejaswi , S Prajwall Narayana
