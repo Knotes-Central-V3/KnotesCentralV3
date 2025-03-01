@@ -1,5 +1,5 @@
 # Knotes-Central
-https://knotes-central-v3.github.io/KnotesCentralV2/
+[Knotes Central V3 ](https://knotescentral.vercel.app)
 
 A humble attempt to create a collaborative platform for students to share notes and resources.
 
