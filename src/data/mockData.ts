@@ -1600,7 +1600,7 @@ export const departments: Department[] = [
   {
     name: "Civil Engineering",
     description:
-      "Comprehensive study materials for Civil Engineering, covering structural analysis, construction technology, geotechnical engineering, and infrastructure design.",
+      "Comprehensive study materials for Civil Engineering, covering structural analysis, construction technology, geotechnical engineering, and infrastructure design.Have you ever considered calculating stress in life for real? ",
     link: "/civil",
     years: [
       {
@@ -2840,6 +2840,22 @@ export const contributors: Contributors[] = [
     year: 2025,
     link: "",
   },
+    {
+    name: "Yuvraj Singh",
+    contribution: "Notes",
+    description: "",
+    department: "ETE",
+    year: 2025,
+    link: "",
+  },
+    {
+    name: "Rohan Ramachandra ",
+    contribution: "Notes",
+    description: "",
+    department: "EIE",
+    year: 2025,
+    link: "",
+  },
   {
     name: "Vijay Kiran",
     contribution: "Notes",
@@ -2913,8 +2929,16 @@ export const contributors: Contributors[] = [
     year: 2026,
     link: "",
   },
+    {
+    name: "Honorary  Seniors and Batchmates  ",
+    contribution: "Notes",
+    description: " Most of you dreamed of this and whether through direct or indirect contributions, you played a part. Some drives even used third-party names to save from rvce drive deletion  . Thank you for inspiring us—your involvement dircetly or indiretly for sure it will always be remembered in Knotes Central.   ",
+    department: "RVCE",
+    year: 2000,
+    link: "",
+  },
   {
-    name: "Other Contributors ",
+    name: "Other Fresh Contributors ",
     contribution: "Notes",
     description: "This card contains a link to an Excel sheet where contributions are recorded. In case the maintainers fail to update the contributions here on this page, please add your name or relevant contribution details directly into the linked sheet.",
     department: "BE (Any)",
